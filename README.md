@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Sahal Maghfud 👋
+- 🌱 Currently learning Machine Learning and Data Science
+- 🎓 Pursuing my degree in IT at Universitas Jambi
+- 📫 Reach me at [sahalcocgood@gmail.com](mailto:sahalcocogood@gmail.com)
 
-<!--
-**sahalmaghfud/sahalmaghfud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- Languages: Python, JavaScript, SQL
+- Frameworks: Laravel, TensorFlow, Flask
+- Tools:VS Code
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahalmaghfud&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sahal-maghfud)

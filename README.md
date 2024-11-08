@@ -12,4 +12,4 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahalmaghfud&show_icons=true&hide_border=true)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sahal-maghfud)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahal-maghfud/)
